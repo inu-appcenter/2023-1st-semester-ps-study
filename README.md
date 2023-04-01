@@ -3,8 +3,7 @@
 
 ## 👪스터디원
 
-| 이름 | 사용 언어 | 이메일 |
-| --- | --- | --- |
-| 🧑‍💻김수민 | Javascript | mailto:robolindasoo@gmail.com |
-| 🧑‍💻이재하 | Javascript | mailto:jhl2619@naver.com |
-| 🧑‍💻신서연 | Cpp | mailto:ruth1442@naver.com |
+| | <a href="https://github.com/milk717"><img src="https://avatars.githubusercontent.com/u/57657868?v=4" width="100"></a> | <a href="https://github.com/Leejha"><img src="https://avatars.githubusercontent.com/u/57664427?v=4" width="100"></a> | <a href="https://github.com/ruth1442"><img src="https://avatars.githubusercontent.com/u/47629804?v=4" width="100"></a> |
+| :---: | :---: | :---: | :---: |
+|**이름**| 🧑‍💻김수민 | 🧑‍💻이재하 | 🧑‍💻신서연 |
+|**사용언어**| Javascript | Javascript | Cpp |
